@@ -1,0 +1,36 @@
+POST http://localhost:8000/order
+
+{
+  "customer_name": "inanzzz",
+  "car_make": "bmw",
+  "car_model": "318"
+}
+{
+  "customer_name": "inanzzz",
+  "car_make": "bmw.three",
+  "car_model": "318"
+}
+ 
+{
+  "customer_name": "inanzzz",
+  "car_make": "audi.a",
+  "car_model": "a3"
+}
+ 
+{
+  "customer_name": "inanzzz",
+  "car_make": "mercedes.benz",
+  "car_model": "sl500"
+}
+{
+  "customer_name": "inanzzz",
+  "car_make": "amg.mercedes.benz",
+  "car_model": "sl500"
+}
+{
+  "customer_name": "inanzzz",
+  "car_make": "mc.laren.mercedes.benz",
+  "car_model": "sl500"
+}
+
+####
